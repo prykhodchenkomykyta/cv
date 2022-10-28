@@ -7,8 +7,8 @@ E-mail:    nikitaprikhodchenko1@gmail.com
 City:      Kyiv  
 Skype:     nikitaprihodchenco1  
 Telegram:  @nikitka_1  
-[LinkedIn](www.linkedin.com/in/mykytaprykhodchenko)  
-[Facebook](facebook.com/mykyta.prykhodchenko)  
+[LinkedIn](https://www.linkedin.com/in/mykytaprykhodchenko)  
+[Facebook](https://facebook.com/mykyta.prykhodchenko)  
 ************************************************************************************************  
 ### Objective:  
   
@@ -37,7 +37,7 @@ Kyiv College of Communication 2013-2017 on speciality software development.
 * Sass/SCSS  
 * Tailwind  
 * Pug  
-* Webpack  
+* WebPack  
 * Npm  
 * Git  
 * ReactJS  
