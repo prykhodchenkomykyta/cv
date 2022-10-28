@@ -52,11 +52,11 @@ Kyiv College of Communication 2013-2017 on speciality software development.
 ### Experience:  
   
 Lot of non-develompent jobs and a couple of development commercial works.  
-***    
+***     
 ### Additional information:  
   
 Passed a year of English in the company Study.ua.  
 Passed exams on Upper-Intermediate.  
 Passed courses HTML, CSS, JavaScript, Front-End on ITEA.ua.  
-***    
+***     
 # 🤝 Let's collaborate together!
