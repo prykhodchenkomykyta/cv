@@ -1,6 +1,6 @@
 # PRYKHODCHENKO MYKYTA
   
-### Contacts:  
+### ☎️ Contacts:  
   
 Phone:     +38(099)231-32-70  
 E-mail:    nikitaprikhodchenko1@gmail.com  
@@ -14,12 +14,12 @@ Telegram:  @nikitka_1
   
 Start a career as Junior React Front-End Developer.  
 ***      
-### Summary:  
+### 👍 Advantages :  
   
 Polite, have a high threshold emotional, stubborn in achieving the final result,  
 positive, cheerful, ready to perform the hard work.  
 ***  
-### Education:  
+### 👨‍🎓 Education:  
   
 Univerzita Mateja Bela in Slovakia.  
 Univercity of Banking Deal at Kyiv.  
@@ -58,4 +58,4 @@ Passed a year of English in the company Study.ua.
 Passed exams on Upper-Intermediate.  
 Passed courses HTML, CSS, JavaScript, Front-End on ITEA.ua.  
 ***    
-# Let's collaborate together!
+# 🤝 Let's collaborate together!
