@@ -9,11 +9,11 @@ Skype:     nikitaprihodchenco1
 Telegram:  @nikitka_1  
 [LinkedIn](https://www.linkedin.com/in/mykytaprykhodchenko)  
 [Facebook](https://facebook.com/mykyta.prykhodchenko)  
-************************************************************************************************  
+* * *  
 ### Objective:  
   
 Start a career as Junior React Front-End Developer.  
-************************************************************************************************  
+* * *    
 ### Summary:  
   
 Polite, have a high threshold emotional, stubborn in achieving the final result,  
