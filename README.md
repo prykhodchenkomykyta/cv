@@ -1,14 +1,14 @@
-# CV of Prykhodchenko Mykyta\
+# CV of Prykhodchenko Mykyta  
+  
+### Contacts:  
 \
-### Contacts:\
-\
-Phone:     +38(099)231-32-70\
-E-mail:    nikitaprikhodchenko1@gmail.com\
-City:      Kyiv\
-Skype:     nikitaprihodchenco1\
-Telegram:  @nikitka_1\
-[LinkedIn]:  (www.linkedin.com/in/mykytaprykhodchenko)\
-[Facebook]:  (facebook.com/mykyta.prykhodchenko)\
+Phone:     +38(099)231-32-70  
+E-mail:    nikitaprikhodchenko1@gmail.com  
+City:      Kyiv  
+Skype:     nikitaprihodchenco1  
+Telegram:  @nikitka_1  
+[LinkedIn](www.linkedin.com/in/mykytaprykhodchenko)  
+[Facebook](facebook.com/mykyta.prykhodchenko)  
 ************************************************
 ### Objective:\
 \
