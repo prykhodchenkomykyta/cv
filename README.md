@@ -13,7 +13,7 @@ Telegram:  @nikitka_1
 ### Objective:  
   
 Start a career as Junior React Front-End Developer.  
-</hr>      
+***     
 ### 👍 Advantages :  
   
 Polite, have a high threshold emotional, stubborn in achieving the final result,  
