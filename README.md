@@ -9,26 +9,26 @@ Skype:     nikitaprihodchenco1
 Telegram:  @nikitka_1  
 [LinkedIn](https://www.linkedin.com/in/mykytaprykhodchenko)  
 [Facebook](https://facebook.com/mykyta.prykhodchenko)  
-* * *  
+</hr>   
 ### Objective:  
   
 Start a career as Junior React Front-End Developer.  
-***      
+</hr>      
 ### 👍 Advantages :  
   
 Polite, have a high threshold emotional, stubborn in achieving the final result,  
 positive, cheerful, ready to perform the hard work.  
-***     
+</hr>   
 ### 👨‍🎓 Education:  
   
 Univerzita Mateja Bela in Slovakia.  
 Univercity of Banking Deal at Kyiv.  
 Kyiv College of Communication 2013-2017 on speciality software development.  
-***    
+</hr>   
 ### Link to my applications:  
   
 [GitHub](https://github.com/prykhodchenkomykyta)  
-***    
+</hr>   
 ### I have basic skills in working with programming technologies such as:  
   
 * HTML5  
@@ -52,11 +52,11 @@ Kyiv College of Communication 2013-2017 on speciality software development.
 ### Experience:  
   
 Lot of non-develompent jobs and a couple of development commercial works.  
-***     
+</hr>   
 ### Additional information:  
   
 Passed a year of English in the company Study.ua.  
 Passed exams on Upper-Intermediate.  
 Passed courses HTML, CSS, JavaScript, Front-End on ITEA.ua.  
-***     
+</hr>   
 # 🤝 Let's collaborate together!
