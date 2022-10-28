@@ -36,17 +36,17 @@ Kyiv College of Communication 2013-2017 on speciality software development.
 * JavaScript ES6+  
 * Sass/SCSS  
 * Tailwind  
-* Pug\
-* Webpack\
-* Npm\
-* Git\
-* ReactJS\
-* Redux\
-* Pixi.js\
-* BEM\
-* MySQL\
-* MongoDB\
-* С++\
+* Pug  
+* Webpack  
+* Npm  
+* Git  
+* ReactJS  
+* Redux  
+* Pixi.js  
+* BEM  
+* MySQL  
+* MongoDB  
+* С++  
 ************************************************************************************************  
 ### Experience:  
   
