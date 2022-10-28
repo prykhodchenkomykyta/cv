@@ -18,7 +18,7 @@ Start a career as Junior React Front-End Developer.
   
 Polite, have a high threshold emotional, stubborn in achieving the final result,  
 positive, cheerful, ready to perform the hard work.  
-<hr/>    
+***     
 ### 👨‍🎓 Education:  
   
 Univerzita Mateja Bela in Slovakia.  
@@ -47,6 +47,7 @@ Kyiv College of Communication 2013-2017 on speciality software development.
 * MySQL  
 * MongoDB  
 * С++  
+
 ***    
 ### Experience:  
   
