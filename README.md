@@ -1,4 +1,4 @@
-<link rel="icon" href="![image](https://user-images.githubusercontent.com/20564485/200140424-8fe7ebb5-03e1-40aa-abf7-e2498636081d.png)
+<link rel="icon" href="https://user-images.githubusercontent.com/20564485/200140424-8fe7ebb5-03e1-40aa-abf7-e2498636081d.png
 " type="image/icon type">
 # PRYKHODCHENKO MYKYTA
   
