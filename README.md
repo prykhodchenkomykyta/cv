@@ -6,7 +6,7 @@ Phone:     +38(099)231-32-70
 E-mail:    nikitaprikhodchenko1@gmail.com  
 City:      Kyiv  
 Skype:     nikitaprihodchenco1  
-Telegram:  @nikitka_1  
+[Telegram](https://t.me/mykytka98): @mykytka98
 [LinkedIn](https://www.linkedin.com/in/mykytaprykhodchenko)  
 [Facebook](https://facebook.com/mykyta.prykhodchenko)  
 
