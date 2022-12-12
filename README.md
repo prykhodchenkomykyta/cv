@@ -18,22 +18,22 @@ Skype:     nikitaprihodchenco1
 
 ### Objective:  
   
-Start a career as Junior React Front-End Developer.  
+Start a career as Junior React Front-End Developer  
 
 * * *   
 
 ### 👍 Advantages :  
   
 Polite, have a high threshold emotional, stubborn in achieving the final result,  
-positive, cheerful, ready to perform the hard work.  
+positive, cheerful, ready to perform the hard work  
 
 * * *   
 
 ### 👨‍🎓 Education:  
   
-Univerzita Mateja Bela in Slovakia.  
-Univercity of Banking Deal at Kyiv.  
-Kyiv College of Communication 2013-2017 on speciality software development.  
+Univerzita Mateja Bela in Slovakia  
+Univercity of Banking Deal at Kyiv  
+Kyiv College of Communication 2013-2017 on speciality software development  
 
 * * *   
 
@@ -66,10 +66,10 @@ Kyiv College of Communication 2013-2017 on speciality software development.
 
 ### Experience:  
   
-Commercial project as a WordPress developer - month
-Commercial project as a FrontEnd developer - month
-Commercial project as a FrontEnd developer - 2 weeks
-I'm programming on JS from 2018 and the last half of year i'm coding on React
+Commercial project as a WordPress developer - month  
+Commercial project as a FrontEnd developer - month  
+Commercial project as a FrontEnd developer - 2 weeks  
+I'm programming on JS from 2018 and the last half of year i'm coding on React  
 
 * * *   
 
