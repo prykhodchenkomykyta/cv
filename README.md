@@ -12,6 +12,10 @@ Skype:     nikitaprihodchenco1
 
 * * *   
 
+!I have electricity!
+
+* * *   
+
 ### Objective:  
   
 Start a career as Junior React Front-End Developer.  
