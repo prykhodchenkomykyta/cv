@@ -62,15 +62,17 @@ Kyiv College of Communication 2013-2017 on speciality software development.
 
 ### Experience:  
   
-Lot of non-develompent jobs and a couple of development commercial works.  
+Commercial project as a WordPress developer - month
+Commercial project as a FrontEnd developer - month
+Commercial project as a FrontEnd developer - 2 weeks
+I'm programming on JS from 2018 and the last half of year i'm coding on React
 
 * * *   
 
 ### Additional information:  
   
-Passed a year of English in the company Study.ua.  
-Passed exams on Upper-Intermediate.  
-Passed courses HTML, CSS, JavaScript, Front-End on ITEA.ua.  
+One year of English in the company Study.u on the level Upper-Intermidiate  
+One year of courses HTML, CSS, JavaScript, Javascript Advanced, Front-End on ITEA.ua
 
 * * *   
 
