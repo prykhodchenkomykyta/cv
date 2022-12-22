@@ -12,27 +12,26 @@ Skype:     nikitaprihodchenco1
 
 * * *   
 
-!I have electricity!
-
-* * *   
-
-### Objective:  
+### 👍 Profecional Summary:  
   
-Start a career as Junior React Front-End Developer  
+Experienced Software Developer adept in bringing forth expertise in design, installation, testing and maintenance of software systems.
+Proficient in various platforms, languages, and embedded systems.  
 
-* * *   
+* * *  
 
-### 👍 Advantages :  
+### 👅 Languages:  
   
-Polite, have a high threshold emotional, stubborn in achieving the final result,  
-positive, cheerful, ready to perform the hard work  
+English - B2  
+Ukrainian - Native  
+Russian - Native  
+Slovak - B2  
 
 * * *   
 
 ### 👨‍🎓 Education:  
   
 Univerzita Mateja Bela in Slovakia  
-Univercity of Banking Deal at Kyiv  
+Univercity of Banking Deal at Kyiv on speciality cubersecurity  
 Kyiv College of Communication 2013-2017 on speciality software development  
 
 * * *   
@@ -40,42 +39,43 @@ Kyiv College of Communication 2013-2017 on speciality software development
 ### Link to my applications:  
   
 [GitHub](https://github.com/prykhodchenkomykyta)  
+[Portfolio](https://prykhodchenkomykyta.github.io/portfolio)  
 
 * * *   
 
-### I have basic skills in working with programming technologies such as:  
+### Skills:  
   
+* ReactJS  
+* NextJS  
 * HTML5  
 * CSS3  
 * JavaScript ES6+  
 * Sass/SCSS  
-* Tailwind  
+* TailwindCSS  
 * Pug  
 * WebPack  
 * Npm  
 * Git  
-* ReactJS  
 * Redux  
 * Pixi.js  
 * BEM  
 * MySQL  
 * MongoDB  
-* С++  
 
 * * *   
 
 ### Experience:  
   
-Commercial project as a WordPress developer - month  
-Commercial project as a FrontEnd developer - month  
-Commercial project as a FrontEnd developer - 2 weeks  
-I'm programming on JS from 2018 and the last half of year i'm coding on React  
+Commercial project as a WordPress developer - editing plugins and improving template  
+Commercial project as a FrontEnd developer on freelance - month  
+Commercial project as a FrontEnd developer on freelance - made the portfolio page for the Sweden Company  
+I'm coding on JS from 2018 and the last half of year i'm coding on ReactJS  
 
 * * *   
 
-### Additional information:  
+### Courses:  
   
-One year of English in the company Study.u on the level Upper-Intermidiate  
+One year of English in the company Study.ua on the level Upper-Intermidiate  
 One year of courses HTML, CSS, JavaScript, Javascript Advanced, Front-End on ITEA.ua
 
 * * *   
