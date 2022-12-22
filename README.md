@@ -1,4 +1,4 @@
-# <img src="https://media.licdn.com/dms/image/D4D35AQHWnk-vDK2AiA/profile-framedphoto-shrink_200_200/0/1670505862787?e=1672275600&v=beta&t=ohK01lBqItYcIe2p6tO9cAI4rpNhSNfnaUhO9zC1f5M" width="100" height="100"> PRYKHODCHENKO MYKYTA  
+# PRYKHODCHENKO MYKYTA  
 Front-End React Developer  
   
 ### ☎️ Contacts:  
