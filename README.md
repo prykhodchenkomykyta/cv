@@ -1,4 +1,4 @@
-# <img src="https://scontent-mxp2-1.xx.fbcdn.net/v/t39.30808-6/312251156_5499979110091303_3392431464734303878_n.jpg?stp=c0.135.526.526a_dst-jpg_p526x296&_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=2DJm0PwRl_AAX-eo3cm&_nc_ht=scontent-mxp2-1.xx&oh=00_AfCF2D08fZrK_9NLvH-zhLkMQVSYatu3AreEAeqAnOGiSw&oe=63A86CBA" width="100" height="100"> PRYKHODCHENKO MYKYTA  
+# <img src="https://media.licdn.com/dms/image/D4D35AQHWnk-vDK2AiA/profile-framedphoto-shrink_200_200/0/1670505862787?e=1672275600&v=beta&t=ohK01lBqItYcIe2p6tO9cAI4rpNhSNfnaUhO9zC1f5M" width="100" height="100"> PRYKHODCHENKO MYKYTA  
 Front-End React Developer  
   
 ### ☎️ Contacts:  
