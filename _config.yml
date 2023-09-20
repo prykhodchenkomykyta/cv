@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: ☕🍩👋
 description: Prykhodchenko Mykyta CV
-favicon: ./assets/favicon.ico
+favicon: /assets/favicon.ico
 email: nikitaprikhodchenko1@gmail.com
 github_link: https://github.com/prykhodchenkomykyta
 linkedin: https://www.linkedin.com/in/mykytaprykhodchenko/
