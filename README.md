@@ -69,11 +69,11 @@ Kyiv College of Communication 2013-2017, software development, Sep 2013 - 2022 J
 
 ### Employment History:  
   
-Pierre&RadyLLC from March 2023 till now
-Commercial project as a WordPress developer - editing plugins and improving template  
-Commercial project as a FrontEnd developer on freelance - month  
-Commercial project as a FrontEnd developer on freelance - made the portfolio page for the Sweden Company  
-I'm coding on JS from 2018 and the last half of year i'm coding on ReactJS  
+* Pierre&RadyLLC from March 2023 till now
+* Commercial project as a WordPress developer - editing plugins and improving template  
+* Commercial project as a FrontEnd developer on freelance - month  
+* Commercial project as a FrontEnd developer on freelance - made the portfolio page for the Sweden Company  
+* I'm coding on JS from 2018 and the last half of year i'm coding on ReactJS  
 
 * * *   
 
