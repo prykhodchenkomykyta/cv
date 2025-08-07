@@ -1,87 +1,68 @@
-# PRYKHODCHENKO MYKYTA  
-Front-End React Developer  
-  
-### ☎️ Contacts:  
-  
-Phone:     +38(099)231-32-70  
-E-mail:    nikitaprikhodchenko1@gmail.com  
-City:      Kyiv  
-Skype:     nikitaprihodchenco1  
-[Telegram](https://t.me/mykytka98): @mykytka98  
-[LinkedIn](https://www.linkedin.com/in/mykytaprykhodchenko)  
-[Facebook](https://facebook.com/mykyta.prykhodchenko)  
+**Mykyta Prykhodchenko**  
+Senior React Developer  
+🌍 Remote | Based in Albania 🇦🇱 | From Kyiv 🇺🇦  
+📞 +38 (099) 231-32-70 | 📧 nikitaprikhodchenko1@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/mykytaprykhodchenko) | [GitHub](https://github.com/prykhodchenkomykyta) | [Portfolio](https://prykhodchenkomykyta.github.io/portfolio)  
 
-* * *   
+---
 
-### 👍 Profecional Summary:  
-  
-Experienced Software Developer adept in bringing forth expertise in design, installation, testing and maintenance of software systems.
-Proficient in various platforms, languages, and embedded systems.  
+### 🚀 Summary
 
-* * *  
+Front-End Developer with **3+ years of hands-on experience** building scalable, performant, and accessible applications with **ReactJS, TypeScript, and NextJS**. Proven track record delivering business-critical features for logistics and e-commerce platforms such as **FedEx, DHL, USPS integrations**. Experienced in full project lifecycle: from client communication and UI/UX to deployment and optimization.  
+Strong English communication skills, self-driven, and highly collaborative in remote international teams.
 
-### 👅 Languages:  
-  
-English - B2  
-Ukrainian - Native  
-Russian - Native  
-Slovak - B2  
+---
 
-* * *   
+### 🛠️ Tech Stack
 
-### 👨‍🎓 Education:  
-  
-Univerzita Mateja Bela in Slovakia, Sep 2019 - 2022 Jul  
-Univercity of Banking Deal at Kyiv, cybersecurity,  Sep 2017 - 2019 Jul  
-Kyiv College of Communication 2013-2017, software development, Sep 2013 - 2022 Jul  
+**Frontend:** ReactJS, NextJS, TypeScript, JavaScript (ES6+), Redux, HTML5, CSS3, SCSS, Tailwind, Webflow  
+**Backend:** PHP, MySQL, MongoDB, Node.js (basic), REST APIs  
+**DevOps / Tools:** Docker, Git, GitHub Actions, Vite, Webpack, npm/yarn, Postman  
+**Testing:** Jest, React Testing Library (basic)  
+**Other:** WordPress (custom plugins/themes), Pug, BEM, Figma (dev handoff)
 
-* * *   
+---
 
-### Link to my applications:  
-  
-[GitHub](https://github.com/prykhodchenkomykyta)  
-[Portfolio](https://prykhodchenkomykyta.github.io/portfolio)  
+### 💼 Experience
 
-* * *   
+**Pierre&Rady LLC** — *FullStack Developer (React / PHP)*  
+_March 2023 – Present (Remote)_  
+- Built and maintained multiple logistics integrations with **FedEx, DHL, USPS**, supporting real-time package tracking and label printing  
+- Migrated legacy PHP templates to React components, reducing code complexity by **30%**  
+- Integrated third-party APIs and optimized client dashboards, leading to **20% faster load times**  
+- Communicated directly with US-based clients, providing weekly demos and gathering feedback  
+- Delivered multiple Webflow projects for e-commerce clients, ensuring responsive UI and SEO compliance
 
-### Skills:  
-  
-* ReactJS  
-* NextJS  
-* HTML5  
-* CSS3  
-* JavaScript ES6+  
-* Sass/SCSS  
-* TailwindCSS  
-* Pug  
-* WebPack  
-* Npm  
-* Git  
-* Redux  
-* Pixi.js  
-* BEM  
-* MySQL  
-* MongoDB
-* Storybook
-* PHP  
+**Freelance** — *React Front-End Developer*  
+_March 2021 – February 2023_  
+- Developed and launched **10+ web apps** using React, Next.js, TypeScript  
+- Built a dynamic CMS platform using **Next.js + Sanity** for a media client, supporting 1000+ daily users  
+- Created reusable UI component libraries, reducing future dev time by **40%**  
+- Maintained client communication, scope management, and deployment via Vercel/DigitalOcean
 
-* * *   
+---
 
-### Employment History:  
-  
-* Pierre&RadyLLC from March 2023 till now
-* Commercial project as a WordPress developer - editing plugins and improving template  
-* Commercial project as a FrontEnd developer on freelance - month  
-* Commercial project as a FrontEnd developer on freelance - made the portfolio page for the Sweden Company  
-* I'm coding on JS from 2018 and the last half of year i'm coding on ReactJS  
+### 🎓 Education
 
-* * *   
+**Matej Bel University, Slovakia** – Slovak & English Languages (2019–2022)  
+**Kyiv University of Banking** – Software Development (2017–2019)  
+**Kyiv College of Communication** – Diploma in Software Development (2013–2017)  
 
-### Courses:  
-  
-English Upper-Intermidiatem, Study.ua, Sep 2018 - Apr - 2018
+---
 
-HTML, CSS, JavaScript, Javascript Advanced, Front-End, ITEA.ua, Sep 2018 - Apr - 2018
-* * *   
+### 🧠 Additional Training
 
-# 🤝 Let's collaborate together!
+- Front-End Advanced Course – ITEA (HTML, CSS, JS)  
+- English – Upper-Intermediate (Studied in English-speaking environment daily)
+
+---
+
+### 🗣️ Languages
+
+- English – Upper-Intermediate (Working language)  
+- Ukrainian – Native  
+- Russian – Fluent  
+- Slovak – Upper-Intermediate  
+
+---
+
