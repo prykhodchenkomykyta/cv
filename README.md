@@ -1,5 +1,5 @@
 **Mykyta Prykhodchenko**  
-Senior React Developer  
+React Developer  
 🌍 Remote | Based in Albania 🇦🇱 | From Kyiv 🇺🇦  
 📞 +38 (099) 231-32-70 | 📧 nikitaprikhodchenko1@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/mykytaprykhodchenko) | [GitHub](https://github.com/prykhodchenkomykyta) | [Portfolio](https://prykhodchenkomykyta.github.io/portfolio)  
